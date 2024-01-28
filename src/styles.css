@@ -46,6 +46,10 @@
     padding-inline-start: 20px;
   }
   
+  .home
+  {
+    background-color:blue;
+  }
   .clipping-container {
     position: relative;
     border: 1px solid #aaa;

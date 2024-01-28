@@ -7,6 +7,11 @@
   pointer-events: none;
 }
 
+.home
+{
+  background-color: blue;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -35,4 +40,6 @@
   to {
     transform: rotate(360deg);
   }
+
+
 }
